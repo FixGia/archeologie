@@ -1,0 +1,11 @@
+Main.class
+models\Equipe.class
+models\Membre.class
+models\Site.class
+constants\Constraints.class
+models\Artefact.class
+models\enums\CompletudeType.class
+models\Parcelle.class
+models\enums\ConservationType.class
+models\ArtefactCategory.class
+models\Fouille.class
